@@ -1,0 +1,17 @@
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\bin\Debug\CodeSploit.exe.config
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\bin\Debug\CodeSploit.exe
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\bin\Debug\CodeSploit.pdb
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\bin\Debug\en\CodeSploit.resources.dll
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.csprojAssemblyReference.cache
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.Form1.resources
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.Properties.Resources.resources
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.Form1.en.resources
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.csproj.GenerateResource.cache
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.csproj.CoreCompileInputs.cache
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\en\CodeSploit.resources.dll
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.exe
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.pdb
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.Form2.resources
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.csproj.CopyComplete
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\bin\Debug\clubdark.dll
+C:\Users\Maks_\source\repos\CodeSploit\CodeSploit\obj\Debug\CodeSploit.Form3.resources
