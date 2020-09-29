@@ -45,5 +45,27 @@ namespace CodeSploit
         {
             Form2.api.ExecuteLink("https://raw.githubusercontent.com/Maks1116/roblox-exploit-database/master/noot%20noot.lua");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form2.api.ExecuteLink("https://raw.githubusercontent.com/Maks1116/roblox-exploit-database/master/0_Permanent_Darkness.txt");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form2.api.ExecuteLink("https://raw.githubusercontent.com/Maks1116/roblox-exploit-database/master/Adopt%20Me%20Obby%20GUI.txt");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form2.api.ExecuteLink("https://raw.githubusercontent.com/Maks1116/roblox-exploit-database/master/BTools.txt");
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form2.api.ExecuteLink("https://raw.githubusercontent.com/Maks1116/roblox-exploit-database/master/Goku%20Script.txt");
+        }
+        //Form2.api.ExecuteLink("");
+
     }
 }
